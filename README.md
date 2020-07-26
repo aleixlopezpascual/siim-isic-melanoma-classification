@@ -1,2 +1,2 @@
 # siim-isic-melanoma-classification
-Kaggle competition 07-2020 
+Kaggle competition 2020-07
